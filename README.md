@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @athenax17
+- 👋 Hi, I’m Tifany
 - 🌱 I’m currently learning basics of computer science.
 
 <!---
